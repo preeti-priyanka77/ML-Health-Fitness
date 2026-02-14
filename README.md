@@ -57,11 +57,9 @@ The following machine learning algorithms were implemented and evaluated:
 ```
 fitness-activity-recognition/
 │
-├── data/                # Dataset files
-├── notebooks/           # Jupyter notebooks (EDA + experiments)
-├── models/              # Saved trained models
-├── src/                 # Training & evaluation scripts
-├── requirements.txt    # Dependencies
+├── data/HARSmartphone   # Dataset files
+├── notebooks/           # Jupyter notebooks (EDA + experiments)                         
+├── requirements.txt     # Dependencies
 └── README.md
 ```
 
